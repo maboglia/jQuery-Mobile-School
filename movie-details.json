@@ -1,17 +1,17 @@
 [
 	{ "name" : "Il padrino",
-	  "picUrl" : "http://www.nexodigital.it/fckeditor/userfiles/image/Legend%20Film%20Festival/IlPadrino-2.jpg"
+	  "picUrl" : "IlPadrino.jpg"
 	},
 	{
 	  "name" : "Ogni cosa è illuminata",
-	  "picUrl" : ""	
+	  "picUrl" : "ognicosailluminata.jpg"	
 	},
 	{
 	  "name" : "Gli intoccabili",
-      "picUrl" : ""
+      "picUrl" : "UntouchablesThe.jpg"
 	},
 	{
 	  "name" : "Kill Bill",
-	  "picUrl" : ""
+	  "picUrl" : "kill_bill.jpg"
 	}
 ]
