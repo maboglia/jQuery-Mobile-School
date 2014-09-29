@@ -1,17 +1,17 @@
 [
-	{ "name" : "Dabangg2",
-	  "picUrl" : "http://www.naz8.com/images/Dabangg2.jpg"
+	{ "name" : "Il padrino",
+	  "picUrl" : "http://www.nexodigital.it/fckeditor/userfiles/image/Legend%20Film%20Festival/IlPadrino-2.jpg"
 	},
 	{
-	  "name" : "Talassh",
-	  "picUrl" : "http://www.naz8.com/images/talassh.jpg"	
+	  "name" : "Ogni cosa è illuminata",
+	  "picUrl" : ""	
 	},
 	{
-	  "name" : "JAB TAK HAI JAAN",
-      "picUrl" : "http://www.naz8.com/images/jthj.jpg"
+	  "name" : "Gli intoccabili",
+      "picUrl" : ""
 	},
 	{
-	  "name" : "Khiladi 786",
-	  "picUrl" : "http://www.naz8.com/images/khiladi786.jpg"
+	  "name" : "Kill Bill",
+	  "picUrl" : ""
 	}
 ]
